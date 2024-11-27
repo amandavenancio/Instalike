@@ -1,0 +1,72 @@
+  {
+    "descricao": "Dois gatinhos brincando com um novelo de lã",
+    "imgUrl": "https://placecats.com/millie/300/150",
+    "alt": "descrição da imagem"
+  }
+  {
+    "descricao": "Gatinho preguiçoso dormindo em uma caixa",
+    "imgUrl": "https://placecats.com/millie/300/150",
+    "alt": "descrição da imagem"
+  }
+  {
+    "descricao": "Gata majestosa posando para a foto",
+    "imgUrl": "https://placecats.com/millie/300/150",
+    "alt": "descrição da imagem"
+  }
+  {
+    "descricao": "Gatinho explorando uma planta",
+    "imgUrl": "https://placecats.com/millie/300/150",
+    "alt": "descrição da imagem"
+  }
+
+
+
+  // const posts = [
+//   {
+//     id: 1,
+//     descricao: "Uma foto teste",
+//     imagem: "https://placecats.com/millie/300/150"
+//   },
+//   {
+//     id: 2,
+//     descricao: "Gato curioso olhando pela janela",
+//     imagem: "https://placecats.com/millie/300/150"
+//   },
+//   {
+  //   id: 3,
+  //   descricao: "Gatinho ronronando no sol",
+  //   imagem: "https://placecats.com/millie/300/150"
+  // },
+  // {
+  //   id: 4,
+  //   descricao: "Dois gatinhos brincando com um novelo de lã",
+  //   imagem: "https://placecats.com/millie/300/150"
+  // },
+  // {
+  //   id: 5,
+  //   descricao: "Gatinho preguiçoso dormindo em uma caixa",
+  //   imagem: "https://placecats.com/millie/300/150"
+  // },
+  // {
+  //   id: 6,
+  //   descricao: "Gata majestosa posando para a foto",
+  //   imagem: "https://placecats.com/millie/300/150"
+  // },
+  // {
+  //   id: 7,
+  //   descricao: "Gatinho explorando uma planta",
+  //   imagem: "https://placecats.com/millie/300/150"
+  // }
+// ];
+
+
+// function buscarPostPorID(id){
+//   return posts.findIndex((post) =>  { 
+//     return post.id === Number(id);
+//   })
+// };
+
+// app.get("/posts/:id", (req, res) => {
+//   const index = buscarPostPorID(req.params.id);
+//   res.status(200).json(posts[index]);
+// });
